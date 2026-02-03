@@ -1,2 +1,2 @@
 # Multicollinearity-and-clustering
-Multicollinearity and clustering
+We first generate a synthetic two-dimensional dataset consisting of three artificial clusters. Each cluster is sampled from a Gaussian distribution with identical, isotropic covariance and distinct means, ensuring that the clusters are well separated in the $(x_1, x_2)$ plane but not trivially separable along a single axis. Each cluster contains 40 observations, for a total of 120 data points.
